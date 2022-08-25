@@ -30,11 +30,6 @@ function writePassword() {
   let number = window.confirm("Should password include numbers?")
   let special = window.confirm("Should password include special characters?")
 
-  // if (upper || lower || number || special) {
-  //   return;
-  // }
-
-
   for (let i = 0; i < pwlength; i++) {
     if (upper == true && password.length < pwlength) {
       password = password + getRandomUpper();
