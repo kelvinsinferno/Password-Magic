@@ -1,2 +1,10 @@
 # Password-Magic
-AS AN employee with access to sensitive data I WANT to randomly generate a password that meets certain criteria SO THAT I can create a strong password that provides greater security
+Generate random lower/uppercase, symbol, number passwords 8-128 characters.
+Just click generate and follow the prompts.
+
+<img src="/Assets/Images/03-javascript-homework-demo.png" alt="image" style="max-width: 100%">
+
+Whats used:
+Html
+CSS
+JavaScript
